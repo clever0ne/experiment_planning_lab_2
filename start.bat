@@ -1,0 +1,1 @@
+matlab -nosplash -nodesktop -r "try, run('src\main\main.m'), catch, exit, end"
